@@ -25,7 +25,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #333;
+  color: #ffffff;
   font-size: 18px;
   line-height: 1.15;
 }
@@ -68,7 +68,7 @@ h4 {
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: Montserrat, sans-serif;
-  color: #333;
+  color: #ffffff;
   font-size: 18px;
   line-height: 24px;
   font-weight: 700;
@@ -427,7 +427,7 @@ SECTION
 }
 
 .section.full-screen.background-image-side.hero {
-  background-color: #f3d940;
+  background-color: #0e6ebe;
   background-image: none;
 }
 
@@ -452,7 +452,7 @@ SECTION
   margin-bottom: 0px;
   padding-right: 0px;
   padding-left: 50px;
-  background-color: #f3d940;
+  background-color: #0e6ebe;
 }
 
 .section.no-bottom-padding {
@@ -468,7 +468,7 @@ SECTION
 }
 
 .section.bgaccent-color {
-  background-color: #f3d940;
+  background-color: #0e6ebe;
 }
 
 .section.bgaccent-color.section-large {
@@ -932,7 +932,7 @@ BUTTON
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  color: #333;
+  color: #ffffff;
 }
 
 .centre-align {
@@ -1007,7 +1007,7 @@ BUTTON
 .section-heading.left-aligned.no-margin-top {
   margin-top: 0px;
   margin-bottom: 51px;
-  color: #333;
+  color: #ffffff;
   line-height: 1.15;
 }
 
@@ -1105,6 +1105,13 @@ BUTTON
 .h3 {
   font-family: Montserrat, sans-serif;
   color: #333;
+  font-size: 27px;
+  line-height: 1.2;
+  font-weight: 900;
+}
+.agenda{
+  font-family: Montserrat, sans-serif;
+  color: #ffffff;
   font-size: 27px;
   line-height: 1.2;
   font-weight: 900;
@@ -1234,7 +1241,7 @@ BUTTON
 .no-bottom-margins {
   margin-bottom: 0px;
   font-family: Montserrat, sans-serif;
-  color: #333;
+  color: #ffffff;
 }
 
 .works-link {
@@ -1377,7 +1384,7 @@ BUTTON
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
-  color: #333;
+  color: #ffffff;
   font-size: 11px;
   font-weight: 600;
   text-align: left;
@@ -1483,7 +1490,7 @@ BUTTON
 
 .blog-card-category {
   font-family: Montserrat, sans-serif;
-  color: #333;
+  color: #ffffff;
   font-size: 11px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -1509,7 +1516,7 @@ BUTTON
 .blog-card-title {
   margin-top: 8px;
   font-family: Montserrat, sans-serif;
-  color: #333;
+  color: #ffffff;
   line-height: 1.15;
   text-decoration: none;
 }
@@ -1912,7 +1919,7 @@ BUTTON
   height: 100%;
   padding: 30px;
   border-radius: 5px;
-  background-color: #f3d940;
+  background-color: #0e6ebe;
   opacity: 1;
 }
 
@@ -2015,7 +2022,7 @@ BUTTON
 .section-divider {
   position: static;
   width: auto;
-  background-color: #f3d940;
+  background-color: #0e6ebe;
   text-align: left;
 }
 
@@ -2032,7 +2039,7 @@ BUTTON
 
 .navbg {
   height: 85px;
-  background-color: #f3d940;
+  background-color: #0e6ebe;
 }
 
 .text-area {
@@ -2231,12 +2238,12 @@ BUTTON
 
 .blog-item-heading {
   font-family: Montserrat, sans-serif;
-  color: #333;
+  color: #ffffff;
   line-height: 1.15;
 }
 
 .blog-card-link {
-  color: #333;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -2257,7 +2264,7 @@ BUTTON
 .rich-text-block blockquote {
   border-style: none none none solid;
   border-left-width: 5px;
-  border-left-color: #f3d940;
+  border-left-color: #0e6ebe;
 }
 
 .full-width-image {
@@ -2291,7 +2298,7 @@ BUTTON
 }
 
 .blog-intro {
-  color: #333;
+  color: #ffffff;
 }
 
 .grid-4 {
@@ -2460,7 +2467,7 @@ BUTTON
 
 @media (max-width: 991px) {
   .burger-icon {
-    color: #333;
+    color: #ffffff;
   }
   .nav-menu-2 {
     overflow: scroll;
