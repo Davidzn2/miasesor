@@ -296,6 +296,7 @@ NAVIGATION
   border-style: none;
   background-color: #926000;
   color: #fff;
+  background-image: linear-gradient(75deg, #5c3f64 0, #4a2f5e 25%, #321f59 50%, #0a1254 75%, #000550 100%);
 }
 
 .dropdown-link-text {
@@ -428,7 +429,7 @@ SECTION
 
 .section.full-screen.background-image-side.hero {
   background-color: #0e6ebe;
-  background-image: none;
+  background-image: radial-gradient(circle at 35.57% -3.86%, #22e0ff 0, #3cb5f2 50%, #408dbc 100%);
 }
 
 .section.background-accent {
@@ -468,7 +469,7 @@ SECTION
 }
 
 .section.bgaccent-color {
-  background-color: #0e6ebe;
+  background-image: radial-gradient(circle at 35.57% -3.86%, #22e0ff 0, #3cb5f2 50%, #408dbc 100%);
 }
 
 .section.bgaccent-color.section-large {
@@ -606,6 +607,8 @@ BUTTON
   font-weight: 600;
   letter-spacing: 2px;
   text-transform: uppercase;
+  background-image: linear-gradient(75deg, #5c3f64 0, #4a2f5e 25%, #321f59 50%, #0a1254 75%, #000550 100%);
+
 }
 
 .button:hover {
@@ -616,6 +619,7 @@ BUTTON
   -ms-transform: translate(0px, -4px);
   transform: translate(0px, -4px);
   color: #fff;
+  
 }
 
 .button.ghost {
